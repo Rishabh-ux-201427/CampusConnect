@@ -1,22 +1,7 @@
-
-<div align="center">
-<img width="164" alt="Logo1" src="https://user-images.githubusercontent.com/64307441/220329846-2cafde60-d3d4-43e0-acbc-4fa4a5d80d72.png">
-</div>
-
-<h1 align="center">AIयोजन</h1>
+<h1 align="center">Campus Connect</h1>
 <h3 align="center">A centralized platform for displaying annual academic calendar for Indian Universities</h3>
 <br><br>
-<p align="center" style="margin-top:10px">
-<hr>
-
-<h3 align="center">
-Achievement
-</h3> 
-<hr>
-<br> 
-<ul>
-<li>Stood first in SIH Internal Hackathon 2022.</li>
-</ul>
+<p align="center" style="margin-top:10 px">
 <hr>
 
 <h3 align="center">
@@ -58,17 +43,11 @@ Project Documentation
 <ol>
 <li>Install all the dependencies stored in requirements.txt (For installing dlib library you need to install visual studio and cmake first).</li>
 <li>Run app.py.</li>
-<li>Change directory to SIH22-AIYOJAN.</li>
+<li>Change directory to CAMPUS-CONNECT.</li>
 <li>Open http://127.0.0.1:5000/ in browser.</li>
 </ol>
 <br>
 <br>
-
-<!-- 
-<h4 align="center"><b>Video Demonstartion can be found<a href="#">here</a>.</b></h4>
-<br>
-<br>  
--->
 
 <hr>
 <h3 align="center">Tech stack</h3>
